@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Starter Pack",
+        "credits": 10,
+        "price": 100,
+        "isActive": true
+    },
+    {
+        "name": "Pro Pack",
+        "credits": 50,
+        "price": 400,
+        "isActive": true
+    },
+    {
+        "name": "Elite Pack",
+        "credits": 100,
+        "price": 700,
+        "isActive": true
+    }
+]

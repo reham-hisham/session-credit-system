@@ -1,0 +1,9 @@
+[
+    {
+        "id": "eeec42a8-a876-4ddb-ac53-5c25f38ff08f",
+        "email": "mentor@example.com",
+        "name": "Seed Mentor",
+        "password": "password",
+        "role": "MENTOR"
+    }
+]
